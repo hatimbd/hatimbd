@@ -1,16 +1,18 @@
-## Hi there 👋
+💫 About Me:
+🔭 Salut 👋 Je suis Hatim, étudiant en dernière année d’ingénierie logicielle et IA à Polytech Dijon. Passionné par les données, le cloud et les architectures modernes, je développe des projets académiques et personnels pour explorer l’impact réel de la tech.
 
-<!--
-**hatimbd/hatimbd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Actuellement en recherche active d’un stage dans les domaines du logiciel, de l’IA ou de la data engineering dans un hub tech français (Paris, Marseille, Nantes, etc.).
 
-Here are some ideas to get you started:
+🌐 You can reach me:
+📧 hatim.bahand@example.com  
+💼 [LinkedIn](https://www.linkedin.com/in/hatimbahand)  
+📁 [Portfolio](https://your-portfolio-link.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 My Tech Stack:
+Python • Pandas • NumPy • scikit-learn • Docker • React • Django • Node.js • SwiftUI  
+Terraform • Kubernetes • Redis • RabbitMQ • CI/CD • GitHub Actions • Selenium • Postman  
+Power BI • Tableau • Figma • MySQL • PostgreSQL • Spark • Kafka • Airflow
+
+📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbahand&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbahand&layout=compact&theme=radical)
