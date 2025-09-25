@@ -4,7 +4,7 @@
 🎯 Je suis actuellement en recherche active d’un stage dans les domaines du développement logiciel, de l’intelligence artificielle, du data engineering ou du développement web, idéalement dans un hub technologique en France.  
 📍 Localisation : ouvert à toute la France
 
-🌐 You can reach me  
+🌐 You can reach me :  
 📧 hatimbahand323@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/hatimbahand)
 
