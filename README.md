@@ -4,9 +4,8 @@
 🎯 Actuellement en recherche active d’un stage dans les domaines du logiciel, de l’IA ou de la data engineering dans un hub tech français (Paris, Marseille, Nantes, etc.).
 
 🌐 You can reach me:
-📧 hatim.bahand@example.com  
+📧 hatimbahand323@gmail.com  
 💼 [LinkedIn](https://www.linkedin.com/in/hatimbahand)  
-📁 [Portfolio](https://your-portfolio-link.com)
 
 💻 My Tech Stack:
 Python • Pandas • NumPy • scikit-learn • Docker • React • Django • Node.js • SwiftUI  
