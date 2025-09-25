@@ -39,5 +39,5 @@
 
 
 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbahand&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbahand&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbd&layout=compact&theme=radical)
