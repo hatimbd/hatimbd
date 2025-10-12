@@ -6,7 +6,7 @@ Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie lo
 
 🌐 You can reach me :  
 📧 hatimbahand323@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/hatimbahand)
+💼 [LinkedIn](https://www.linkedin.com/in/hatim-bahand)
 
 ### 💻 My Tech Stack:
 
