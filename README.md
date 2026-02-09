@@ -1,7 +1,7 @@
 ### 💫 About Me  
 Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie logicielle et intelligence artificielle** à **Polytech Dijon**. Passionné par les données, l’IA, le machine learning et le développement web, je conçois des projets académiques et personnels pour explorer l’impact concret de la technologie.
 
-🎯 Je suis actuellement en recherche active d’un **stage** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
+🎯 Je suis actuellement en recherche active d’un **CDI** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
 📍 Localisation : ouvert à toute la France
 
 🌐 You can reach me :  
