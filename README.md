@@ -72,7 +72,7 @@ Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie lo
 
 
 ### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hatimbd&show_icons=true&theme=radical&cache_seconds=3600)
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hatimbd&layout=compact&theme=radical&cache_seconds=3600)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbd&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbd&layout=compact&theme=radical)
 
 
