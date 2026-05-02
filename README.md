@@ -6,9 +6,12 @@ Je suis actuellement en recherche active d’un **CDI** dans les domaines du **d
 
 ## Contact Me
 
-[![Email](https://img.shields.io/badge/Email-hatimbahand323%40gmail.com-red?style=for-the-badge)](mailto:hatimbahand323@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Bahand-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hatim-bahand)
-[![Portfolio](https://img.shields.io/badge/Portfolio-hatimbahand.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://hatimbahand.dev)
+[![Email](https://img.shields.io/badge/Email-hatimbahand323%40gmail.com-red?style=for-the-badge)](mailto:hatimbahand323@gmail.com)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Bahand-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hatim-bahand)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimbahand.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://hatimbahand.dev)  
+
 
 ### My Tech Stack:
 
