@@ -1,14 +1,16 @@
-### 💫 About Me  
+### About Me  
 Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie logicielle et intelligence artificielle** à **Polytech Dijon**. Passionné par les données, l’IA, le machine learning et le développement web, je conçois des projets académiques et personnels pour explorer l’impact concret de la technologie.
 
-🎯 Je suis actuellement en recherche active d’un **CDI** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
+Je suis actuellement en recherche active d’un **CDI** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
 📍 Localisation : ouvert à toute la France
 
-🌐 You can reach me :  
-📧 hatimbahand323@gmail.com  
-💼 [LinkedIn](https://www.linkedin.com/in/hatim-bahand)
+## Contact Me
 
-### 💻 My Tech Stack:
+[![Email](https://img.shields.io/badge/Email-hatimbahand323%40gmail.com-red?style=for-the-badge)](mailto:hatimbahand323@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Bahand-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hatim-bahand)
+[![Portfolio](https://img.shields.io/badge/Portfolio-hatimbahand.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://hatimbahand.dev)
+
+### My Tech Stack:
 
 #### Languages  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
