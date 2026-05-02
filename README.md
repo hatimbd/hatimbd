@@ -89,13 +89,13 @@ Je suis actuellement en recherche active d’un **CDI** dans les domaines du **d
 
 <p align="center">
   <img
-    src="https://github-readme-stats-hatimbd.vercel.app/api?username=hatimbd&show_icons=true&bg_color=00000000&title_color=0f2d5a&icon_color=195faa&text_color=3c3c46&border_color=b4bed2"
+    src="https://github-readme-stats-eight-phi-81.vercel.app/api?username=hatimbd&show_icons=true&bg_color=00000000&title_color=0f2d5a&icon_color=195faa&text_color=3c3c46&border_color=b4bed2"
     alt="GitHub Stats"
     height="170"
   />
   &nbsp;&nbsp;
   <img
-    src="https://github-readme-stats-hatimbd.vercel.app/api/top-langs/?username=hatimbd&layout=compact&bg_color=00000000&title_color=0f2d5a&text_color=3c3c46&border_color=b4bed2"
+    src="https://github-readme-stats-eight-phi-81.vercel.app/api/top-langs/?username=hatimbd&layout=compact&bg_color=00000000&title_color=0f2d5a&text_color=3c3c46&border_color=b4bed2"
     alt="Top Languages"
     height="170"
   />
