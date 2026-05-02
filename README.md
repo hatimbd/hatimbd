@@ -87,11 +87,6 @@ Je suis actuellement en recherche active d’un **CDI** dans les domaines du **d
 
 ## GitHub Stats
 
-<p align="center">
-  <img
-    src="https://readme-stats-git-master-hatimbds-projects.vercel.app/api?username=hatimbd&show_icons=true&bg_color=00000000&title_color=0f2d5a&icon_color=195faa&text_color=3c3c46&border_color=b4bed2"
-    alt="Hatim's GitHub Stats"
-    height="170"
-  />
-</p>
+![Followers](https://img.shields.io/github/followers/hatimbd?style=for-the-badge&color=0f2d5a&labelColor=b4bed2&label=Followers)
+![Stars](https://img.shields.io/github/stars/hatimbd?style=for-the-badge&color=0f2d5a&labelColor=b4bed2&label=Total%20Stars)
 
