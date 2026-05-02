@@ -4,13 +4,22 @@ Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie lo
 Je suis actuellement en recherche active d’un **CDI** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
 📍 Localisation : ouvert à toute la France
 
-## Contact Me
+## Contact
 
-[![Email](https://img.shields.io/badge/Email-hatimbahand323%40gmail.com-red?style=for-the-badge)](mailto:hatimbahand323@gmail.com)  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hatim%20Bahand-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/hatim-bahand)  
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-hatimbahand.dev-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white)](https://hatimbahand.dev)  
+<table>
+  <tr>
+    <td><strong>Email</strong></td>
+    <td><a href="mailto:hatimbahand323@gmail.com">hatimbahand323@gmail.com</a></td>
+  </tr>
+  <tr>
+    <td><strong>LinkedIn</strong></td>
+    <td><a href="https://www.linkedin.com/in/hatim-bahand">linkedin.com/in/hatim-bahand</a></td>
+  </tr>
+  <tr>
+    <td><strong>Portfolio</strong></td>
+    <td><a href="https://hatimbahand.dev">hatimbahand.dev</a></td>
+  </tr>
+</table>
 
 
 ### My Tech Stack:
@@ -76,8 +85,10 @@ Je suis actuellement en recherche active d’un **CDI** dans les domaines du **d
 ![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 
-### 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbd&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbd&layout=compact&theme=radical)
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hatimbd&show_icons=true&theme=default&bg_color=00000000&title_color=0f2d5a&icon_color=195faa&text_color=3c3c46&border_color=b4bed2)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hatimbd&layout=compact&bg_color=00000000&title_color=0f2d5a&text_color=3c3c46&border_color=b4bed2)
 
 
