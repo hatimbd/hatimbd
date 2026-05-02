@@ -1,8 +1,10 @@
-### About Me  
-Salut 👋 Je suis **Hatim**, étudiant en dernière année d’**ingénierie logicielle et intelligence artificielle** à **Polytech Dijon**. Passionné par les données, l’IA, le machine learning et le développement web, je conçois des projets académiques et personnels pour explorer l’impact concret de la technologie.
+## About Me
 
-Je suis actuellement en recherche active d’un **CDI** dans les domaines du **développement logiciel**, de l’**intelligence artificielle**, du **data engineering** ou du **développement web**, idéalement dans un hub technologique en France.  
-📍 Localisation : ouvert à toute la France
+I am **Hatim Bahand**, a final-year **Software Engineering & Artificial Intelligence** student at **Polytech Dijon**, currently completing my end-of-studies internship at **Renault Trucks – Volvo Group** in Lyon.
+
+My work sits at the intersection of **software engineering**, **machine learning**, and **data**. I build things that are reliable, efficient, and grounded in real use cases — from production Python tooling in industrial environments to end-to-end ML pipelines in research settings.
+
+I am actively looking for a **permanent position (CDI)** in software engineering, AI, data engineering, or full-stack development — open to opportunities across France.
 
 ## Contact
 
@@ -18,6 +20,10 @@ Je suis actuellement en recherche active d’un **CDI** dans les domaines du **d
   <tr>
     <td><strong>Portfolio</strong></td>
     <td><a href="https://hatimbahand.dev">hatimbahand.dev</a></td>
+  </tr>
+  <tr>
+    <td><strong>Location</strong></td>
+    <td>Lyon, France — open to opportunities across France</td>
   </tr>
 </table>
 
