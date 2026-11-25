@@ -1,10 +1,8 @@
 ## About Me
 
-I am **Hatim Bahand**, a final-year **Software Engineering & Artificial Intelligence** student at **Polytech Dijon**, currently completing my end-of-studies internship at **Renault Trucks – Volvo Group** in Lyon.
+I am **Hatim Bahand**, a final-year **Software & Artificial Intelligence** engineer graduate of **Polytech Dijon**, currently working as a consultant for **Capgemini Engineering**X**Renault Trucks – Volvo Group** in Lyon.
 
 My work sits at the intersection of **software engineering**, **machine learning**, and **data**. I build things that are reliable, efficient, and grounded in real use cases — from production Python tooling in industrial environments to end-to-end ML pipelines in research settings.
-
-I am actively looking for a **permanent position (CDI)** in software engineering, AI, data engineering, or full-stack development — open to opportunities across France.
 
 ## Contact
 
@@ -23,7 +21,7 @@ I am actively looking for a **permanent position (CDI)** in software engineering
   </tr>
   <tr>
     <td><strong>Location</strong></td>
-    <td>Lyon, France — open to opportunities across France</td>
+    <td>Lyon, France </td>
   </tr>
 </table>
 
